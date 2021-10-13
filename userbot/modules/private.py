@@ -29,7 +29,7 @@ DEF_UNAPPROVED_MSG = (
     "__Hi there,i'm the keeper of this room chat and master still doesn't allow  you to place an order,wait until the master is back online and please don't spam, thank you. __\n"
     "━━━━━━━━━━━━━━━━━\n"
     "╔   『◈Auto Messages◈』  ╗\n"
-    f"╚    ◄By {DEFAULTUSER} ►    ╝\n"
+    f"╚    ◄By {DEFAULTUSER} ►     ╝\n"
     "┗━━━━━━━━━━━━━━━━━━━")
 # =================================================================
 
