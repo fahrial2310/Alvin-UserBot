@@ -45,6 +45,11 @@
       "value": "-100",
       "required": true
     },
+    "PM_LOGGR_BOT_API_ID": {
+      "description": "creat a private/public group for your botlog chat id,add @MissRose_Bot and type /id.",
+      "value": "-100",
+      "required": true
+    },
     "CONSOLE_LOGGER_VERBOSE": {
       "description": "If you need verbosity on the console logging",
       "value": "False"
