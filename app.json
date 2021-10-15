@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/fahrial2310/Alvin-Userbot",
-  "telegram": "https://t.me/alvin_junior",
-  "success_url": "https://t.me/Alvin_junior",
+  "repository": "https://github.com/fahrial2310/Alvin-UserBot",
+  "telegram": "https://t.me/Alvin_Junior",
+  "success_url": "https://t.me/Alvin-UserBot",
   "stack": "container",
   "env": {
     "API_KEY": {
