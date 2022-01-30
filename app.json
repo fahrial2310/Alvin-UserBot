@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/fahrial2310/Alvin-UserBot",
   "telegram": "https://t.me/Alvin_Junior",
-  "success_url": "https://t.me/Alvin-UserBot",
+  "success_url": "https://t.me/Alvin_UserBot",
   "stack": "container",
   "env": {
     "API_KEY": {
