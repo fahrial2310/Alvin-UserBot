@@ -16,7 +16,7 @@ from pymongo import MongoClient
 from redis import StrictRedis
 from dotenv import load_dotenv
 from requests import get
-from telethon.sync import TelegramClient, custom, events
+from telethon.sync import TelegramClient, events
 from telethon.sessions import StringSession
 from pyrogram.types import InlineKeyboardButton
 
